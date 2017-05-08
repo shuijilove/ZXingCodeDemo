@@ -40,7 +40,7 @@
 ```
 
 二维码
-![]（https://github.com/shuijilove/ZXingCodeDemo/blob/master/screenshot/Screenshot_2017-05-08-13-39-30.png）
+![](https://github.com/shuijilove/ZXingCodeDemo/blob/master/screenshot/Screenshot_2017-05-08-13-39-30.png)
 
 条形码
 ![](https://github.com/shuijilove/ZXingCodeDemo/blob/master/screenshot/Screenshot_2017-05-08-13-39-09.png)
